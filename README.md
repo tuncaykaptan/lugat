@@ -1,4 +1,13 @@
 # Lügat - Yeni Sekme Sözlüğü
+
+## İndirme Linkleri
+
+
+<a href="https://addons.mozilla.org/tr/firefox/addon/lugat_sozluk?utm_source=github.com/tuncaykaptan/lugat/" target="_blank"><img src="https://i.hizliresim.com/31sddw2.png" alt="Alt Text" width="200"></a>
+
+
+<a href="https://microsoftedge.microsoft.com/addons/detail/l%C3%BCgat-yeni-sekme-s%C3%B6zl%C3%BC%C4%9F/gacdjadggbnffcbicepgiakoifbgmnfg" target="_blank"><img src="https://i.hizliresim.com/l1c8jr6.png" alt="Alt Text" width="200"></a>
+
 Lügat, tarayıcınızın yeni sekmesinde çeşitli sözlerle günlük kültür dozunuzu almanıza yarayan tarayıcı eklentisidir.
 
 <img src="https://github.com/tuncaykaptan/lugat/assets/75607066/51d2ef12-67b8-4164-8ad1-e887144841cd" width="80%">
@@ -9,13 +18,7 @@ Lügat, tarayıcınızın yeni sekmesinde çeşitli sözlerle günlük kültür 
 
 
 
-## İndirme Linkleri
 
-
-<a href="https://addons.mozilla.org/tr/firefox/addon/lugat_sozluk?utm_source=github.com/tuncaykaptan/lugat/" target="_blank"><img src="https://i.hizliresim.com/31sddw2.png" alt="Alt Text" width="200"></a>
-
-
-<a href="https://microsoftedge.microsoft.com/addons/detail/l%C3%BCgat-yeni-sekme-s%C3%B6zl%C3%BC%C4%9F/gacdjadggbnffcbicepgiakoifbgmnfg" target="_blank"><img src="https://i.hizliresim.com/l1c8jr6.png" alt="Alt Text" width="200"></a>
 
 
 

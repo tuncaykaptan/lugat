@@ -9,7 +9,8 @@
 
 Lügat, tarayıcınızın yeni sekmesinde çeşitli sözlerle günlük kültür dozunuzu almanıza yarayan tarayıcı eklentisidir.
 
--Yeni tasarımlar çok yaxşi oldu-
+Not: Müsait olduğum zaman kodlarını optimizde edip, birkaç özellik daha ekleyip her şeyini açık kaynak olarak buraya koyacağım. 
+
 ![1](https://github.com/tuncaykaptan/lugat/assets/75607066/e1e533cc-897f-408d-abb8-ab5a86450dcb)
 ![2](https://github.com/tuncaykaptan/lugat/assets/75607066/65aa28cd-cd10-45a7-99b0-b12a03225745)
 ![3](https://github.com/tuncaykaptan/lugat/assets/75607066/44ae0e91-0e21-466b-b945-55e0cddb5d3b)

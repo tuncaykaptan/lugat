@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "author": "Tuncay KAPTAN",
+    "name": "Lügat V2 - Yeni Sekme Sözlüğü",
+    "version": "2",
+    "description": "lügat, 1 kelime. 2 sözlük.",
+    "icons": {
+      "16": "newtab/src/img/lugat16.png",
+      "32": "newtab/src/img/lugat32.png",
+      "48": "newtab/src/img/lugat48.png",
+      "128": "newtab/src/img/lugat128.png"
+    },
+    "chrome_url_overrides": {
+      "newtab": "newtab/index.html"
+    }
+  }
+  

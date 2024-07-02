@@ -1,0 +1,380 @@
+@media screen and (max-width: 685px) { /* mobile */
+
+}
+
+@media screen and (min-width: 685px) and (max-width: 991px) {/* Tablet */
+  #item{
+    font-size: 35px !important;
+  }
+  
+  #mean{
+      font-size: 20px !important;
+  }
+  
+  #example{
+      font-size: 20px !important;
+  }
+  
+  #contentType{
+      font-size: 17px !important;
+  }
+
+  #infoBox{
+    font-size: 18px !important
+  }
+
+  #extraOptionDiv{
+    font-size: 19px !important;
+  }
+
+  #infoBox .details {
+    font-size: 12px !important;
+  }
+  
+  #submitSettings{
+    font-size: 23px !important;
+  }
+
+  info.dailyModeExpl{
+    font-size: 8px !important;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {/* laptop */
+  #item{
+    font-size: 40px !important;
+  }
+  
+  #mean{
+      font-size: 20px !important;
+  }
+  
+  #example{
+      font-size: 20px !important;
+  }
+  
+  #contentType{
+      font-size: 17px !important;
+  }
+
+  #infoBox{
+    font-size: 18px !important
+  }
+
+  #extraOptionDiv{
+    font-size: 19px !important;
+  }
+
+  #infoBox .details {
+    font-size: 12px !important;
+  }
+  
+  #submitSettings{
+    font-size: 23px !important;
+  }
+
+  info.dailyModeExpl{
+    font-size: 9px !important;
+  }
+}
+
+@media screen and (min-width: 1200px) {/* desktop */
+  #item{
+    font-size: 43px !important;
+  }
+  
+  #mean{
+      font-size: 23px !important;
+  }
+  
+  #example{
+      font-size: 20px !important;
+  }
+  
+  #contentType{
+      font-size: 20px !important;
+  }
+
+  #infoBox{
+    font-size: 18px !important
+  }
+
+  #extraOptionDiv{
+    font-size: 19px !important;
+  }
+
+  #infoBox .details {
+    font-size: 12px !important;
+  }
+  
+  #submitSettings{
+    font-size: 23px !important;
+  }
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "SF Pro Display";
+}
+
+info.dailyMode{
+  position: relative;;
+}
+
+info.dailyMode:hover info.dailyModeExpl{
+  opacity: 0.8;
+}
+
+info.dailyModeExpl{
+  font-size: 10px;
+  opacity: 0;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: black;
+  position: absolute;
+  transition: all ease 500ms;
+  width: 100%;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+#content{
+    margin: auto;
+    width: 70vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 20px;
+    font-weight: 500;
+    z-index: 1;
+}
+
+a{
+  color: black;
+}
+
+#itemAndType{
+  width: 100%;
+}
+
+#item{
+  display: inline;
+  margin-right: 10px;
+}
+
+#mean{
+    font-style: italic;
+    font-weight: 400;
+}
+
+#example{
+    font-style: italic;
+    font-weight: 400;
+    opacity: 80%;
+    margin-bottom: 50px;
+}
+
+#contentType{
+    font-style: italic;
+    font-weight: 400;
+    opacity: 50%;
+    display: inline;
+}
+
+#infoBtn img{
+    width: 35px;
+    height: 35px;
+}
+
+#infoBtn{
+    position: fixed;
+    right: 50px;
+    top: 50px;
+    opacity: 20%;
+    transition: all ease .5s;
+    z-index: 97;
+}
+
+#infoBtn:hover{
+    opacity: 100%;
+    cursor: pointer;
+}
+
+#infoScreen{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    z-index: 98;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease 0.5s;
+}
+
+
+#infoBox{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow-y: auto;
+  max-height: 95vh;
+  text-align: center;
+  min-width: 500px;
+  width: 40%;
+  padding: 20px 40px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  transition: all ease 0.5s;
+  z-index: 99;
+}
+
+#infoBox p {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+#infoBox .option {
+  text-align: left;
+}
+
+#extraOptionDiv{
+  text-align: left;
+}
+
+#extraOptionDiv svg {
+  margin-right: 5px;
+}
+
+.hr {
+  width: 100%;
+  height: 2px;
+  margin: 10px 0px;
+  border-radius: 5px;
+}
+
+#infoBox .details {
+  margin-bottom: 2px !important;
+
+}
+
+#infoBox .details a {
+  transition: all ease .2s;
+}
+
+#infoBox .details a:hover {
+  color: black !important;
+}
+
+
+#submitSettings, #notificationOkBtn{
+    align-self: center;
+    cursor: pointer;
+    padding: 5px 10px 6px;
+    transition: all ease .5s;
+    position: relative;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#submitSettings:hover{
+    border-radius: 10px;
+}
+
+.profilePhoto {
+  width: 45px;
+  border-radius: 50%;
+  margin-bottom: 2px;
+  transition: all ease 1s;
+}
+
+.profilePhotoLink{
+  margin: auto;
+  width: 60px;
+  display: block;
+}
+
+.profilePhoto:hover{
+  transform: rotate(180deg) scale(1.2);
+}
+
+
+.check {
+  cursor: pointer;
+  position: relative;
+  margin: auto;
+  width: 18px;
+  height: 18px;
+  -webkit-tap-highlight-color: transparent;
+  transform: translate3d(0, 0, 0);
+}
+.check svg {
+  position: relative;
+  z-index: 1;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #c8ccd4;
+  stroke-width: 1.5;
+  transform: translate3d(0, 0, 0);
+  transition: all 0.2s ease;
+}
+.check svg path {
+  stroke-dasharray: 60;
+  stroke-dashoffset: 0;
+  transition: all 0.3s ease;
+}
+.check svg polyline {
+  stroke-dasharray: 22;
+  stroke-dashoffset: 66;
+  transition: all 0.2s linear;
+}
+.cbx:hover + .check svg path {
+    stroke-dashoffset: 15;
+  }
+.cbx:checked + .check svg path {
+  stroke-dashoffset: 60;
+}
+.cbx:checked + .check svg {
+  transform: scale(1.3);
+}
+.cbx:checked + .check svg polyline {
+  stroke-dashoffset: 42;
+  transition-delay: 0.15s;
+}
+
+#link{
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+  font-size: 20px;
+  padding: 9px 20px;
+  position: fixed;
+  display: hidden;
+  right: 5%;
+  bottom: -10px;
+  opacity: 20%;
+  transition: all ease 0.2s;
+  z-index: 2;
+  text-decoration: none;
+}
+
+#link:hover{
+  opacity: 100%;
+  bottom: 0px;
+}

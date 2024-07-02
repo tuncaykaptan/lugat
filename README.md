@@ -9,7 +9,8 @@
 
 Lügat, tarayıcınızın yeni sekmesinde çeşitli sözlerle günlük kültür dozunuzu almanıza yarayan tarayıcı eklentisidir.
 
-Not: Müsait olduğum zaman kodlarını optimizde edip, birkaç özellik daha ekleyip her şeyini açık kaynak olarak buraya koyacağım. 
+Çeşitli sebeplerden dolayı Firefox'da Manifest 2, diğer tarayıcılarda Manifest 3 kullandım o nedenle 2 farklı manifest dosyası var. Projeyi kullanmak isterseniz kullanacağınız platformun manifest dosyasını "newtab" adflı klasörle aynı dizine çıkartıp o şekilde devam edebilirsiniz, bunu yapmadan projeyi test etmeye vey adeğiştirmeye çalışırsanız hata alacaksınız.
+Normal bir şekilde kullanmak için yukarıdaki indirme linklerini kullanabilirsiniz.
 
 ![Lügat](https://github.com/tuncaykaptan/lugat/assets/75607066/73c83b30-9324-4a45-b1eb-4457162d77db)
 ![1](https://github.com/tuncaykaptan/lugat/assets/75607066/e1e533cc-897f-408d-abb8-ab5a86450dcb)

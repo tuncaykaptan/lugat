@@ -27,7 +27,8 @@ Normal bir şekilde kullanmak için yukarıdaki indirme linklerini kullanabilirs
 <img src="https://github.com/tuncaykaptan/lugat/assets/75607066/3b294534-2294-4a77-a32e-b4190d947b1e" width="80%">
 <img src="https://github.com/tuncaykaptan/lugat/assets/75607066/c4344883-7552-4b49-bc1f-39e5138be989" width="80%">
 
-
+# Çalışma Diyagramı:
+![Başlıksız Diyagram drawio](https://github.com/user-attachments/assets/bef2bdde-22f8-4466-98a8-22906bef2b3b)
 
 
 

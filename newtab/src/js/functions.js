@@ -26,12 +26,11 @@ function checkVersion(lastVer){ // version check any notify updates
     notifyUser(`
     Sevgili Lügat Kullanıcısı,
     <br><br>
-    Lügat'ı tercih ettiğin için teşekkür ederiz! Bugün, sizinle heyecan verici bir güncellemeyi paylaşmanın mutluluğunu yaşıyoruz.
-    <br><br>
-    Bütün altyapının baştan yazılmasıyla birlikte Lügat 2.0'a güncellenmiş bulunmaktasınız. Artık Lügat çok daha hızlı ve optimize! 
+    Yeni güncellemeye hoş geldin, 2.01 sürümü ile yeni maddeler eklendi, bazı örneklerin çıkmama sorunu düzeltildi ve performans iyileştirmeleri yapıldı.<br><br>
+    Tarayıcı deneyimini güzelleştirmeye devam ediyoruz, eklenmesini istediğin bir madde veya özellik varsa lütfen sağ üstteki bilgi kısmından bizimle iletişime geçmekten çekinme.
     <br><br>
     Saygılarımızla,<br>
-    Lügat Ekibi
+    <a href="https://instagram.com/tunc.ayy" target="_blank" style="color:white; font-size: 16px">Lügat Ekibi</a>
     `, `Güzel haberler var!`, lastVer)
 
       // version update is happening in accept button
@@ -484,7 +483,7 @@ function writeItem(itemId, category, color){
   contentType.innerHTML = "("+c+")";
 
   if(category[itemId].hasOwnProperty("examples")){
-    if(category[itemId].examples.length > 1){
+    if(category[itemId].examples.length >= 1){
       exampleHtml.style.display = "block";
       category[itemId].examples.forEach(function (example) {
         exampleHtml.innerHTML = '"' + example + '" <br>';  

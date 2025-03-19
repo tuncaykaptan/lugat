@@ -1,5 +1,5 @@
 let itemId;
-let lastVer = "2";
+let lastVer = "2.01";
 
 checkVersion(lastVer);
 

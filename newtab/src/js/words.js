@@ -7,6 +7,17 @@ const words = [
       ]
     },
     {
+      "content": "nida",
+      "detail": "Çağırma, seslenme, haykırış",
+      "examples": [
+        "Kaçıp gitmek bi' şey değiştirmez. Gül aksini söyleyen nidalara. (Şanışer)"
+      ],
+      "link":{
+        "title": "Kelimenin Kökeni",
+        "url": "https://www.nisanyansozluk.com/kelime/nida"
+      }
+    },
+    {
       "content": "birader",
       "detail": "Erkek kardeş",
       "examples": [
@@ -77,13 +88,6 @@ const words = [
         "Ta uzakta, pencerenin kenarına sinmiş, sessiz sedasız çalışan, ... temiz yüzlü, nazik bir İstanbul çocuğu da mümeyyizlerdendir.",
         "Neşemden duramıyor, öbür mümeyyizlerle konuşuyor, gülüyordum.",
         "O, 'yazıla' işaretini koydu mu mümeyyiz temize çeker."
-      ]
-    },
-    {
-      "content": "muvazene",
-      "detail": "denge, dengeleme",
-      "examples": [
-        "Ruh muvazenesi yalpalamaya başlayınca nesil ahengi kaybolmaya yüz tutar ve şimdiki manzara doğar."
       ]
     },
     {
@@ -168,16 +172,22 @@ const words = [
       "examples": []
     },
     {
+      "content": "nida",
+      "detail": "Çağırma, seslenme, ses",
+      "examples": [
+        "Kaçıp gitmek bi' şey değiştirmez. Gül aksini söyleyen nidalara. (Şanışer)"
+      ],
+      "link":{
+        "title": "Kelimenin Kökeni",
+        "url": "https://www.nisanyansozluk.com/kelime/nida"
+      }
+    },
+    {
       "content": "mülahaza",
       "detail": "düşünce",
       "examples": [
         "Hukuk felsefesi açısından acaba o mu tasvip edilir, beriki mi? Çoğunluğun mülahazası mı tasvip edilir, bu mu tasvip edilir?"
       ]
-    },
-    {
-      "content": "muannit",
-      "detail": "İnatçı",
-      "examples": []
     },
     {
       "content": "meşveret",
@@ -200,11 +210,6 @@ const words = [
         "Hükûmetler mahdut bir zaman içinde yaşar.",
         "Heyhat, dedi, siz de mahdut fikirli bir muharrirmişsiniz!"
       ]
-    },
-    {
-      "content": "mütefekkir",
-      "detail": "düşünür",
-      "examples": []
     },
     {
       "content": "müzakere",
@@ -256,11 +261,6 @@ const words = [
       ]
     },
     {
-      "content": "mübalağa",
-      "detail": "abartı Sözün etkisini artırmak için bir şeyi olamayacağı biçimde yahut olduğundan çok veya az gösterme sanatı",
-      "examples": []
-    },
-    {
       "content": "müstahkem",
       "detail": "Berkitilmiş, sağlamlaştırılmış, tahkim edilmiş",
       "examples": []
@@ -273,29 +273,12 @@ const words = [
       ]
     },
     {
-      "content": "nazari",
-      "detail": "kuramsal",
-      "examples": [
-        "Bazı nazari dersler bir kısım talebeye hiç şüphesiz daha eğlenceli gelecektir."
-      ]
-    },
-    {
-      "content": "muannit",
-      "detail": "İnatçı",
-      "examples": []
-    },
-    {
       "content": "nüsha",
       "detail": "Birbirinin tıpkısı olan yazılı şeylerin her biri, sayı Benzer, aynı, kopya",
       "examples": [
         "Bu yazma eserin üç nüshası daha var.",
         "Geçende Sarıkamış'ta çıkan Varlık gazetesinin bir nüshası geldi."
       ]
-    },
-    {
-      "content": "muğber",
-      "detail": "gücenik",
-      "examples": []
     },
     {
       "content": "müddei",
@@ -380,11 +363,6 @@ const words = [
       ]
     },
     {
-      "content": "mümteni",
-      "detail": "Bir şeyi yapmaktan çekinen, kaçınan Olamaz, olmayacak",
-      "examples": []
-    },
-    {
       "content": "mümeyyiz",
       "detail": "İyiyi, kötüyü, doğru ve yanlışı ayıran, seçen, ayırtman Yazıları beyaz kâğıda temize çeken kimse",
       "examples": [
@@ -400,6 +378,17 @@ const words = [
         "Delikanlı çağımızdaki cevher / Yalvarmak, yakarmak nafile bugün",
         "Avukata söyle, nafile beklemesin."
       ]
+    },
+    {
+      "content": "nida",
+      "detail": "Çağırma, seslenme, haykırış",
+      "examples": [
+        "Kaçıp gitmek bi' şey değiştirmez. Gül aksini söyleyen nidalara. (Şanışer)"
+      ],
+      "link":{
+        "title": "Kelimenin Kökeni",
+        "url": "https://www.nisanyansozluk.com/kelime/nida"
+      }
     },
     {
       "content": "muannit",
@@ -423,14 +412,6 @@ const words = [
       "detail": "içerik",
       "examples": [
         "Nesir olarak Naima Tarihi'ni hem muhteva hem ifade bakımından beğenirim."
-      ]
-    },
-    {
-      "content": "nafile",
-      "detail": "yararsız, boşuna Bir kimsenin dinen zorunlu olmadığı hâlde yalnızca Allah rızasını kazanmak amacıyla farz dışında kıldığı namaz, tuttuğu oruç ve yaptığı her türlü hayırlı iş ve davranış",
-      "examples": [
-        "Delikanlı çağımızdaki cevher / Yalvarmak, yakarmak nafile bugün",
-        "Avukata söyle, nafile beklemesin."
       ]
     },
     {
@@ -484,16 +465,6 @@ const words = [
       "examples": []
     },
     {
-      "content": "mahfuz",
-      "detail": "Saklanmış, korunmuş, korunan, saklı",
-      "examples": []
-    },
-    {
-      "content": "müstahkem",
-      "detail": "Berkitilmiş, sağlamlaştırılmış, tahkim edilmiş",
-      "examples": []
-    },
-    {
       "content": "menfi",
       "detail": "olumsuz Her şeyi olumsuz ve kötü yanlarıyla ele alan, olumsuz, eksi",
       "examples": [
@@ -506,30 +477,6 @@ const words = [
       "detail": "denge, dengeleme",
       "examples": [
         "Ruh muvazenesi yalpalamaya başlayınca nesil ahengi kaybolmaya yüz tutar ve şimdiki manzara doğar."
-      ]
-    },
-    {
-      "content": "nakıs",
-      "detail": "Eksik, tam olmayan, bitmemiş; noksan Özrü, kusuru olan, eksi Eksik, tam olmayan, bitmemiş, noksan biçimde",
-      "examples": [
-        "Nakıs kalan bilgilerimizi ikmale uğraşırlar."
-      ]
-    },
-    {
-      "content": "müstevi",
-      "detail": "düz (I), düzlem",
-      "examples": []
-    },
-    {
-      "content": "müşevveş",
-      "detail": "karmakarışık",
-      "examples": []
-    },
-    {
-      "content": "mülahaza",
-      "detail": "düşünce",
-      "examples": [
-        "Hukuk felsefesi açısından acaba o mu tasvip edilir, beriki mi? Çoğunluğun mülahazası mı tasvip edilir, bu mu tasvip edilir?"
       ]
     },
     {
@@ -607,6 +554,17 @@ const words = [
       "content": "sebil",
       "detail": "Kutsal günlerde karşılık beklemeden hayır için dağıtılan içme suyu Genellikle camilere bitişik özel bir biçimde yapılmış, karşılık beklemeden hayır için içme suyu dağıtılan taş yapı; sebilhane Meyan kökü şerbetini bir hayır için dağıtma",
       "examples": []
+    },
+    {
+      "content": "nida",
+      "detail": "Çağırma, seslenme, haykırış",
+      "examples": [
+        "Kaçıp gitmek bi' şey değiştirmez. Gül aksini söyleyen nidalara. (Şanışer)"
+      ],
+      "link":{
+        "title": "Kelimenin Kökeni",
+        "url": "https://www.nisanyansozluk.com/kelime/nida"
+      }
     },
     {
       "content": "zira",
@@ -747,6 +705,17 @@ const words = [
         ]
     },
     {
+      "content": "nida",
+      "detail": "Çağırma, seslenme, haykırış",
+      "examples": [
+        "Kaçıp gitmek bi' şey değiştirmez. Gül aksini söyleyen nidalara. (Şanışer)"
+      ],
+      "link":{
+        "title": "Kelimenin Kökeni",
+        "url": "https://www.nisanyansozluk.com/kelime/nida"
+      }
+    },
+    {
         "content": "gül",
         "detail": "Gülgillerin örnek bitkisi (Rosa) Bu bitkinin katmerli, genellikle kokulu olan çiçeği",
         "examples": [
@@ -794,5 +763,40 @@ const words = [
         "examples": [
             
         ]
-    }
+    },
+    {
+      "content": "melankoli",
+      "detail": "kara sevda, hüzün",
+      "examples": [
+        "Uykusuz geçen gecenin melankolisini bu sıcak karşılama hafifletiyordu."
+      ],
+    },
+    {
+      "content": "mülahaza",
+      "detail": "düşünce",
+      "examples": [
+        "Hukuk felsefesi açısından acaba o mu tasvip edilir, beriki mi? Çoğunluğun mülahazası mı tasvip edilir, bu mu tasvip edilir?"
+      ],
+    },
+    {
+      "content": "binaen",
+      "detail": "dayanarak, -den dolayı, -den ötürü",
+      "examples": [
+        "Bu mülahazaya binaen, pidaşaha hitaben bir telegrafname hazırlandı."
+      ],
+    },
+    {
+      "content": "medet",
+      "detail": "yardım, imdat anlamında kullanılan bir seslenme sözü",
+      "examples": [
+        "Bekleyiniz ha başlıyor ha başlayacak, ha bire medet efenim..."
+      ],
+    },
+    {
+      "content": "azamet",
+      "detail": "ululuk, gurur, görkem, kurum",
+      "examples": [
+        "Arkadaşlarımdan ayrılıp onun yanına geçmek azametime dokundu."
+      ],
+    },
 ]
